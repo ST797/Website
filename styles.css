@@ -1,0 +1,48 @@
+ body
+ {
+   background-color: #3A86FF;
+   color: white;
+   font-size: 30;
+ }
+
+
+
+
+  h3{
+    color:#CBF3F0;
+  }
+  h1
+  {
+    color:white;
+    text-align:center;
+  }
+
+  .Hero
+  {
+    background-color: #2EC4B6;
+    text-align:center;
+  }
+
+
+  img
+  {
+    width:20%;
+    border-radius: 100%;
+    margin: 20px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  div
+  {
+    font-family: cursive;
+  }
